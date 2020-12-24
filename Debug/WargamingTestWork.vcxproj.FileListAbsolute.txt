@@ -1,0 +1,2 @@
+D:\Учёба\C++\Практика\WargamingTestWork\Debug\WargamingTestWork.exe
+D:\Учёба\C++\Практика\WargamingTestWork\Debug\WargamingTestWork.pdb

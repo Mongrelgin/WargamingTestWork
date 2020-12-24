@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Учёба\C++\Практика\WargamingTestWork\Source.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учёба\C++\Практика\WargamingTestWork\SecondFIFO.cpp(142): warning C4715: SecondFIFO<int>::operator[]: значение возвращается не при всех путях выполнения
+  WargamingTestWork.vcxproj -> D:\Учёба\C++\Практика\WargamingTestWork\Debug\WargamingTestWork.exe
