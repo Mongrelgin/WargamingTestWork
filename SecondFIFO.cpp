@@ -131,16 +131,6 @@ void SecondFIFO<T>::clear()
 	}
 }
 
-template<typename T>
-void SecondFIFO<T>::LastToFirst()
-{
-	//Node<T>* current = this->head;//Current содержит указатель на значение в заголовке
-	//while (current->pNext != last) //ѕока поле pNext не указывает на нулевое значение
-	//{
-	//	current = current->pNext;//current равен указателю на следующий элемент
-	//}
-	//last = current->pNext;//¬ поле pNext указываем на первый элемент, тем самым дела€ циклический список
-}
 
 template<typename T>
 T& SecondFIFO<T>::operator[](const int index)
