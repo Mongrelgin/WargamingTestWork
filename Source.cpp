@@ -38,6 +38,7 @@ int main() {
 	fifo2.insert(202, 2);
 	fifo2.insert(2012, 4);
 	fifo2.pop_back();
+	
 		
 	for (int i = 0; i < fifo2.GetSize(); i++)
 	{
